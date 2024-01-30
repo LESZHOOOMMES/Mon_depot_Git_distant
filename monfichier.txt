@@ -1,2 +1,6 @@
 première ligne
+<<<<<<< HEAD
 deuxième ligne
+=======
+deuxième ligne
+>>>>>>> new-branche
